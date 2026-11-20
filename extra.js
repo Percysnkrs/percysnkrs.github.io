@@ -1,1 +1,9 @@
-window.PX={seed:[]};
+window.PX={seed:[],shop:{
+wa:"",
+ig:"",
+vinted:"",
+about:"",
+auth:"",
+ship:"",
+trust:[]
+}};
